@@ -1,4 +1,2 @@
-billiam001.github.io
-====================
-
-personal website
+billholway.github.com
+=====================
